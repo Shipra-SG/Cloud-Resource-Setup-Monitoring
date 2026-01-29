@@ -36,5 +36,3 @@ cloud-resource-setup-monitoring/
 - Documentation and runbook creation
 - Problem-solving & step-by-step operational execution
 ```
-
----
